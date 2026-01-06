@@ -36,7 +36,7 @@ The game is provided as a string input, and the program computes the final score
 ├── bowling_score.py
 ├── test_bowling_score.py
 ├── README.md
-└── ERP_Presentation.pptx
+└── Enterprise Resource Planning (ERP).pdf
 
 
 ## How to Run
